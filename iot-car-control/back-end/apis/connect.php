@@ -1,7 +1,7 @@
 <?php
-$servername = "127.0.0.1:3306";
-$username = "root";
-$password = "";
+$servername = "gera-iot-01.czgqyqg68r84.us-east-2.rds.amazonaws.com:3306";
+$username = "admin";
+$password = "admin12345";
 $dbname = "iot_car";
 
 try {
